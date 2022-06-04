@@ -8,13 +8,13 @@ I'm a first year Front-end developer student at Noroff School of technology and 
 My projects are mostly school related, but I fully intend to share my own projects eventually. 
 
 
-##  Languages ⌨️
+##  Languages & Stats ⌨️
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img   src="https://github-readme-stats.vercel.app/api?username=Mbr90&theme=radical" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Mbr90&theme=dracula" /></a>
   
-</a><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mbr90&layout=compact" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mbr90&layout=compact" />
 </a>
 
 
