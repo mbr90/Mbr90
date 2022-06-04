@@ -15,7 +15,7 @@ My projects are mostly school related, but I fully intend to share my own projec
 
 
 ## Peace!
-<div class="tenor-gif-embed" data-postid="16505836" data-share-method="host" data-aspect-ratio="1.06667" data-width="100%"><a href="https://tenor.com/view/ami-fat-cat-confused-nervous-equations-gif-16505836">Ami Fat Cat Confused Sticker</a>from <a href="https://tenor.com/search/ami+fat+cat-stickers">Ami Fat Cat Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="center" src="https://c.tenor.com/kT6SqaUp2j4AAAAi/ami-fat-cat-confused.gif"></img>
 
 <!--
 **Mbr90/Mbr90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
