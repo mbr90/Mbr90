@@ -1,5 +1,7 @@
-<img src="https://darling-jelly-e3b55d.netlify.app/images/messagif.gif"></img>
+![test](https://user-images.githubusercontent.com/49838649/172011449-aba2e1b8-ca2a-4dbe-9648-01f6f08c8713.gif)
+
 ### Greetings 🙏
+
 
 I'm a first year Front-end developer student at Noroff School of technology and digital media. 
 My projects are mostly school related, but I fully intend to share my own projects eventually. 
