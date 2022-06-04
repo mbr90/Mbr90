@@ -1,4 +1,5 @@
-![test](https://user-images.githubusercontent.com/49838649/172011449-aba2e1b8-ca2a-4dbe-9648-01f6f08c8713.gif)
+![welcomegithub](https://user-images.githubusercontent.com/49838649/172013366-2a08bb06-36b1-45e6-9e74-77737a8230a5.gif)<img align="center" src="https://c.tenor.com/kT6SqaUp2j4AAAAi/ami-fat-cat-confused.gif"></img>
+
 
 ### Greetings 🙏
 
@@ -15,7 +16,7 @@ My projects are mostly school related, but I fully intend to share my own projec
 
 
 ## Peace!
-<img align="center" src="https://c.tenor.com/kT6SqaUp2j4AAAAi/ami-fat-cat-confused.gif"></img>
+
 
 <!--
 **Mbr90/Mbr90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
