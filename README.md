@@ -4,6 +4,7 @@ I'm a first year Front-end developer student at Noroff School of technology and 
 My projects are mostly school related, but I fully intend to share my own projects eventually. 
 
 
+## Languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mbr90)](https://github.com/anuraghazra/github-readme-stats)
 
