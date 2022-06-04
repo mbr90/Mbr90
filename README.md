@@ -1,4 +1,4 @@
-![welcomegithub](https://user-images.githubusercontent.com/49838649/172013366-2a08bb06-36b1-45e6-9e74-77737a8230a5.gif) <img align="right" src="https://c.tenor.com/kT6SqaUp2j4AAAAi/ami-fat-cat-confused.gif"></img>
+![welcomegithub](https://user-images.githubusercontent.com/49838649/172013470-a63a34c0-db4b-435a-9a3a-639986ab56d4.gif) <img align="right" src="https://c.tenor.com/kT6SqaUp2j4AAAAi/ami-fat-cat-confused.gif"></img>
 
 
 ### Greetings 🙏
