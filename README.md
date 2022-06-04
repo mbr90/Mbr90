@@ -11,9 +11,9 @@ My projects are mostly school related, but I fully intend to share my own projec
 ##  Languages ⌨️
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mbr90" />
+  <img align="center" width="200" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mbr90" />
 </a><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mbr90" />
+  <img align="center" width="200" height="200" src="https://github-readme-stats.vercel.app/api?username=Mbr90" />
 </a>
 
 
