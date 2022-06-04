@@ -1,3 +1,4 @@
+<img src="https://darling-jelly-e3b55d.netlify.app/images/messagif.gif">
 ### Greetings 🙏
 
 I'm a first year Front-end developer student at Noroff School of technology and digital media. 
