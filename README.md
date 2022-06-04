@@ -11,10 +11,10 @@ My projects are mostly school related, but I fully intend to share my own projec
 ##  Languages ⌨️
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left"  src="https://github-readme-stats.vercel.app/api?username=Mbr90&theme=radical" />
+  <img   src="https://github-readme-stats.vercel.app/api?username=Mbr90&theme=radical" />
   
 </a><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mbr90&layout=compact" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mbr90&layout=compact" />
 </a>
 
 
