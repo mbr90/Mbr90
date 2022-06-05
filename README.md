@@ -14,7 +14,7 @@ My projects are mostly school related, but I fully intend to share my own projec
 <a align="left"  href="https://github.com/anuraghazra/github-readme-stats">
   <img  src="https://github-readme-stats.vercel.app/api?username=Mbr90&theme=dracula" /></a>  
   
-<a align="left" href="https://github.com/anuraghazra/github-readme-stats">  
+<a align="right" href="https://github.com/anuraghazra/github-readme-stats">  
   <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mbr90&layout=compact" />
 </a>  
 
