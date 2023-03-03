@@ -5,8 +5,8 @@
 ### Greetings 🙏
 
 
-I'm a first year Front-end developer student at Noroff School of technology and digital media. 
-My projects are mostly school related, but I fully intend to share my own projects eventually. 
+I'm a second year Front-end developer student at Noroff School of technology and digital media. 
+My projects are mostly school related, but I intend to add some personal projects eventually. 
 
 
 ##  Languages & Stats ⌨️
