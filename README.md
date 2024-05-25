@@ -5,7 +5,7 @@
 ### Greetings 🙏
 
 
-I'm a second year Front-end developer student at Noroff School of technology and digital media. 
+I'm a newly graduated Front-end developer from Noroff School of technology and digital media. 
 My projects are mostly school related, but I intend to add some personal projects eventually. 
 
 
